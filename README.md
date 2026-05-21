@@ -1,4 +1,4 @@
-# ⚡ THE GOD KILLER — Bulk Trade Algorithmic Trading Bot
+
 
 A production-grade algorithmic trading bot for [Bulk.trade](https://early.bulk.trade/) (Solana Perpetual DEX) testnet.
 
